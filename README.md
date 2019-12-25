@@ -1,4 +1,4 @@
-Codecov Scala Example
+Codecov Scala Example - test
 =====================
 
 | [https://codecov.io][1] | [@codecov][2] | [hello@codecov.io][3] |
